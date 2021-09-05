@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Audi S6 C7",
+    "image": "../images/cards_images/s6card.jpg",
+    "price": "1200zł",
+    "model": "s6c7",
+    "brand": "audi",
+    "link": "#"
+  },
+  {
+    "title": "BMW M4 Competition",
+    "image": "../images/cards_images/m4card.jpg",
+    "price": "1000pln",
+    "model": "m4comp",
+    "brand": "bmw",
+    "link": "#"
+  },
+
+  {
+    "title": "Mercedes C63 AMG",
+    "image": "../images/cards_images/c63card.jpg",
+    "price": "800pln",
+    "model": "c63amg",
+    "brand": "mercedes",
+    "link": "#"
+  },
+
+  {
+    "title": "Toyota Supra GR",
+    "image": "../images/cards_images/supracard.jpg",
+    "price": "1200zł",
+    "model": "supragr",
+    "brand": "toyota",
+    "link": "#"
+  },
+
+  {
+    "title": "Audi S5",
+    "image": "../images/cards_images/s5card.jpg",
+    "price": "900pln",
+    "model": "s5",
+    "brand": "audi",
+    "link": "#"
+  },
+
+  {
+    "title": "BMW M8 Manhart",
+    "image": "../images/cards_images/m8card.jpg",
+    "price": "1800pln",
+    "model": "m8manh",
+    "brand": "bmw",
+    "link": "#"
+  }
+]
